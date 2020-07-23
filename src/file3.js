@@ -1,3 +1,1 @@
-console.log("Hello")
-
-console.log(true)
+console.log(1)
