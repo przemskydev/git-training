@@ -1,0 +1,14 @@
+body {
+  background: #F05033;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+main {
+  background: white;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
