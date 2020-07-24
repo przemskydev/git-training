@@ -1,14 +1,15 @@
 body {
-  background: #F05033;
-  padding: 20px;
+  margin: 0;
   box-sizing: border-box;
+  background: #F05033;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 main {
   background: white;
   margin: 0 auto;
   padding: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
