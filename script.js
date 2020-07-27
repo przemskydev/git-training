@@ -1,6 +1,13 @@
 function show() {
-  console.log("Hello World!")
+  const hello = "Hello world";
+
+  console.log(`First function ${hello}`)
 }
+show();
+
 function hide() {
-  console.log("Hiding things")
+  setTimeout(() => {
+    console.log("Hiding things")
+  }, 3000);
 }
+hide();
